@@ -2,7 +2,6 @@
 
 OctoScore is a Next.js application that scores a GitHub profile based on various metrics to provide a comprehensive evaluation. This project is built with modern development practices, including continuous integration and structured contribution guidelines.
 
-### Thumbnail
 ![Picture](https://github.com/prabhakarvenkat/OctoScore/blob/8a8d3aa900bf6da72652d7468cc53b9a90fbef60/octoscore/thumbnail.png)
 
 -----
