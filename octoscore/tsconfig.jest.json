@@ -1,0 +1,12 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "module": "commonjs",
+    "jsx": "react-jsx",
+    "target": "es2016",
+    "allowSyntheticDefaultImports": true
+  },
+  "include": [
+    "tests"
+  ]
+}
