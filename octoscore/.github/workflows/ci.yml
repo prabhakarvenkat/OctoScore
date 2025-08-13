@@ -39,5 +39,6 @@ jobs:
         env:
           # This assumes your build process needs these variables
           # You should set these in your repository's GitHub Secrets
-          GITHUB_PAT: ${{ secrets.GITHUB_PAT }}
+          # GITHUB_PAT: ${{ secrets.GITHUB_PAT }}
+          GH_PAT: ${{ secrets.GH_PAT }}
           NEXT_PUBLIC_BASE_URL: ${{ secrets.NEXT_PUBLIC_BASE_URL }}
