@@ -5,7 +5,6 @@ OctoScore is a Next.js application that scores a GitHub profile based on various
 ![Picture](https://github.com/prabhakarvenkat/OctoScore/blob/8a8d3aa900bf6da72652d7468cc53b9a90fbef60/octoscore/thumbnail.png)
 
 -----
-### Working Video
 
 Watch Link: [Watch the demo](<https://youtu.be/_Nz4VhuS5NU>)
 -----
